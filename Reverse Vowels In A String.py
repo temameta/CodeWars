@@ -11,8 +11,3 @@ def reverse_vowels(s):
     for k in s_list:
         s+=k
     return s
-    
-
-print(reverse_vowels("Reverse Vowels In A String"))
-        
-    

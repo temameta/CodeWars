@@ -8,6 +8,3 @@ def duplicate_count(text):
                 scanned.append(text[k].upper())
                 count+=1
     return count
-     
-print(duplicate_count("Indivisibilities"))
-        

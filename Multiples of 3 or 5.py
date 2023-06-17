@@ -6,4 +6,3 @@ def solution(number):
             if k%3==0 or k%5==0:
                 sum+=k
     return sum
-print(solution(10))

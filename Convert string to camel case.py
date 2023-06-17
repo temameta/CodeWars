@@ -5,4 +5,3 @@ def to_camel_case(text):
     for k in range(1,len(a)):
         newText+=a[k].capitalize()
     return newText
-print(to_camel_case("the-stealth-warrior"))

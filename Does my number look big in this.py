@@ -7,4 +7,3 @@ def narcissistic( value ):
     if new_val==value:
         is_narc = True
     return is_narc
-print(narcissistic(153))

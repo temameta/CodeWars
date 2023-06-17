@@ -11,4 +11,3 @@ def find_outlier(integers):
             if k%2==0:
                 outlier = k
     return outlier
-print(find_outlier([2, 4, 0, 100, 4, 11, 2602, 36]))

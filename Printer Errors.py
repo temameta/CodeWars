@@ -6,4 +6,3 @@ def printer_error(s):
             if k == i:
                 count_errors += 1
     return str(count_errors) + "/" + str(len(s))
-print(printer_error("aaaxbbbbyyhwawiwjjjwwm"))
